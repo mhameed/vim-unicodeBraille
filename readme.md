@@ -1,6 +1,6 @@
 # Vim unicode braille #
 
-* Author: Mesar Hameed <mhameed at src dot gnome dot org>
+* Author: Mesar Hameed <mesar dot hameed at gmail dot com>
 * Copyright (c) 2013
 * Last Changed: 2013-04-28 11:33:37 +0100
 

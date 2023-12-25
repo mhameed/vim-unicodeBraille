@@ -1,6 +1,6 @@
 " vim:foldmethod=marker 
 "
-" Author: Mesar Hameed <mhameed at src dot gnome dot org>
+" Author: Mesar Hameed <mesar dot hameed at gmail dot com>
 " Last Changed: 2013-04-28 11:33:37 +0100
 "
 " For an alternative method see: http://benizi.com/vim/braille.vim
